@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CambiarNumeroActivity"
+    android:background="@drawable/fondo_oscuro">
+
+    <Button
+        android:id="@+id/btnCambiarNumero"
+        android:layout_width="215dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="332dp"
+        android:text="Camiar numero"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/etCambiarNumero"
+        android:layout_width="354dp"
+        android:layout_height="60dp"
+        android:background="@drawable/rdborder_style"
+        android:ems="10"
+        android:hint="Ingrese número de teléfono"
+        android:inputType="phone"
+        android:paddingStart="10dp"
+        android:paddingLeft="30sp"
+        android:textColorHint="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/btnCambiarNumero"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.95" />
+</androidx.constraintlayout.widget.ConstraintLayout>

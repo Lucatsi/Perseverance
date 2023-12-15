@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "883665269856",
+    "project_id": "rutina-b7815",
+    "storage_bucket": "rutina-b7815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883665269856:android:aff6be4614b3e32c06bf05",
+        "android_client_info": {
+          "package_name": "com.Perseverance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASCVwEN1zT4xA_YZ7lXhSqbudo0uE_-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883665269856:android:f26e69796c40280206bf05",
+        "android_client_info": {
+          "package_name": "com.example.mylogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASCVwEN1zT4xA_YZ7lXhSqbudo0uE_-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883665269856:android:e4d4b828d118651a06bf05",
+        "android_client_info": {
+          "package_name": "com.perseverance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASCVwEN1zT4xA_YZ7lXhSqbudo0uE_-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
